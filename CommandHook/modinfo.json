@@ -1,0 +1,15 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "commandhook",
+    "name": "CommandHook",
+    "authors": [
+        "anth64"
+    ],
+    "description": "A server-side API for routing and overriding vanilla commands.",
+    "version": "0.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    },
+    "side": "Server"
+}
